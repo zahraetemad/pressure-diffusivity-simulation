@@ -1,0 +1,7 @@
+results/
+*.asv
+*.fig
+*.mat
+*.mlx
+*.zip
+.DS_Store
