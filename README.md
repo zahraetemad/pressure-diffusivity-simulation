@@ -1,6 +1,6 @@
 # 2D Pressure Diffusivity Simulation
 
-MATLAB coursework code for pressure diffusivity in a homogeneous 2D porous medium.
+MATLAB code for pressure diffusivity in a homogeneous 2D porous medium.
 
 The program implements:
 
@@ -13,7 +13,7 @@ The program implements:
 - Explicit vs implicit runtime and profile comparison
 - Grid convergence study using the implicit solver
 
-## Coursework Boundary Conditions
+## Boundary Conditions
 
 The domain is a rectangle of length `L` and width `W`.
 
