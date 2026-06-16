@@ -4,8 +4,6 @@
 %   - top-left boundary is treated as a known pressure inlet.
 %   - bottom-right boundary is treated as a known pressure outlet.
 %   - other boundaries are no-flow boundaries.
-%
-
 
 clear; close all; clc;
 
