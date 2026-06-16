@@ -1,11 +1,11 @@
 % Pressure diffusivity in a 2D porous medium.
 %
-% Coursework assumptions:
-%   - The green top-left boundary is treated as a known pressure inlet.
-%   - The red bottom-right boundary is treated as a known pressure outlet.
-%   - All blue boundaries are no-flow boundaries.
+% assumptions:
+%   - top-left boundary is treated as a known pressure inlet.
+%   - bottom-right boundary is treated as a known pressure outlet.
+%   - other boundaries are no-flow boundaries.
 %
-% TODO before submission: add both students' names and student numbers here.
+
 
 clear; close all; clc;
 
