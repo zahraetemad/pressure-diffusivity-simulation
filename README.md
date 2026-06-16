@@ -82,10 +82,6 @@ The implicit method solves the backward-Euler linear system:
 = P(i,j)^n
 ```
 
-## Before Coursework Submission
-
-Add both students' full names and student numbers at the top of the MATLAB file and in the report.
-
 ## Suggested GitHub Commands
 
 ```bash
